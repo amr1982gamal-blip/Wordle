@@ -1,0 +1,6 @@
+{
+  "name": "لعبة الوِرد",
+  "description": "لعبة تخمين الكلمات العربية الفاخرة والأنيقة، تجربة ممتعة ومميزة ومصممة بأرقى التفاصيل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
